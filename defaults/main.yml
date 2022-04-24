@@ -1,0 +1,10 @@
+---
+# defaults file for ansible-role-haproxy
+# defaults file for ansible-role-haproxy
+haproxy_frontend_port: 80
+haproxy_backend_port: 80
+haproxy_backend_servers: []
+# - name: app1
+#   address: 192.168.0.1
+# - name: app2
+#   address: 192.168.0.2
